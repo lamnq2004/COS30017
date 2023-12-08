@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location_array">
+        <item>Melbourne CBD</item>
+        <item>Hawthorn</item>
+        <item>Richmond</item>
+        <item>Footscray</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nintendo Game Rental</string>
+    <string name="game_name">Name</string>
+    <string name="list_1">PG</string>
+    <string name="list_2">M</string>
+    <string name="list_3">3</string>
+    <string name="rent_button">Rent</string>
+    <string name="next_button">Next</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Back</string>
+    <string name="rent_title">Rent Option</string>
+    <string name="total_price">Total Price</string>
+    <string name="rent_length">Rent Length (per day)</string>
+    <string name="snack_bar_back">Bye!</string>
+</resources>
