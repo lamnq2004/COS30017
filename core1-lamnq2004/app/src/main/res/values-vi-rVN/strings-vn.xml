@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xúc Xắc</string>
+    <string name="roll">Tung Xúc Xắc</string>
+    <string name="add">Cộng</string>
+    <string name="subtract">Trừ</string>
+    <string name="result">0</string>
+    <string name="reset">Xóa</string>
+</resources>
